@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Musicaflight
+Description=A Musicaflight Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes//musicaflight
+ScriptFile=/usr/share/plymouth/themes//musicaflight/musicaflight.script
